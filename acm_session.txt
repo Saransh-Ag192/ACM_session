@@ -1,3 +1,6 @@
 This is initialization.
 
+this is experimental commit.
+I may refuse it.
+
 this is new commit
